@@ -1,0 +1,39 @@
+jni/main.c:754:30: warning: implicitly declaring library function 'malloc' with type 'void *(unsigned int)' [-Wimplicit-function-declaration]
+                                                        usesdpadaxis = (int*) malloc( 6*4 );
+                                                                              ^
+jni/main.c:754:30: note: include the header <stdlib.h> or explicitly provide a declaration for 'malloc'
+jni/main.c:767:9: warning: implicit declaration of function 'free' is invalid in C99 [-Wimplicit-function-declaration]
+                                                                free( usesdpadaxis );
+                                                                ^
+2 warnings generated.
+jni/main.c:754:30: warning: implicitly declaring library function 'malloc' with type 'void *(unsigned int)' [-Wimplicit-function-declaration]
+                                                        usesdpadaxis = (int*) malloc( 6*4 );
+                                                                              ^
+jni/main.c:754:30: note: include the header <stdlib.h> or explicitly provide a declaration for 'malloc'
+jni/main.c:767:9: warning: implicit declaration of function 'free' is invalid in C99 [-Wimplicit-function-declaration]
+                                                                free( usesdpadaxis );
+                                                                ^
+2 warnings generated.
+jni/main.c:754:30: warning: implicitly declaring library function 'malloc' with type 'void *(unsigned long)' [-Wimplicit-function-declaration]
+                                                        usesdpadaxis = (int*) malloc( 6*4 );
+                                                                              ^
+jni/main.c:754:30: note: include the header <stdlib.h> or explicitly provide a declaration for 'malloc'
+jni/main.c:767:9: warning: implicit declaration of function 'free' is invalid in C99 [-Wimplicit-function-declaration]
+                                                                free( usesdpadaxis );
+                                                                ^
+jni/main.c:1201:5: warning: implicitly declaring library function 'memset' with type 'void *(void *, int, unsigned long)' [-Wimplicit-function-declaration]
+    memset(&engine, 0, sizeof(engine));
+    ^
+jni/main.c:1201:5: note: include the header <string.h> or explicitly provide a declaration for 'memset'
+jni/main.c:1211:8: warning: implicitly declaring library function 'strcmp' with type 'int (const char *, const char *)' [-Wimplicit-function-declaration]
+                if ( strcmp( szModel, "ASUS_Z017D" ) == 0 ) 
+                     ^
+jni/main.c:1211:8: note: include the header <string.h> or explicitly provide a declaration for 'strcmp'
+4 warnings generated.
+jni/Core.cpp:673:22: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]
+                agk::JoystickAxis( (void*)id, stick, axis, value );
+                                   ^
+jni/Core.cpp:678:24: warning: cast to 'void *' from smaller integer type 'int' [-Wint-to-void-pointer-cast]
+                agk::JoystickButton( (void*)id, button, state );
+                                     ^
+2 warnings generated.

@@ -1,0 +1,67 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+    }
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    sourceSets.main.jni.srcDirs = []
+    defaultConfig {
+        applicationId "com.thegamecreators.agk_player2"
+        minSdkVersion 16
+        targetSdkVersion 29
+        ndk{
+            abiFilters "armeabi-v7a", "arm64-v8a"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildTypes {
+        debug {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4096M"
+    }
+}
+
+dependencies {
+    implementation 'com.google.android.gms:play-services-ads:19.5.0'
+    implementation 'com.google.android.gms:play-services-games:20.0.1'
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
+    implementation 'com.google.android.gms:play-services-auth:18.1.0'
+    implementation 'com.google.firebase:firebase-analytics:18.0.0'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation project(':ExpansionDownloader')
+    implementation project(':ExpansionZipFile')
+    implementation 'com.chartboost:chartboost-sdk:8.1.0'
+    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
+    implementation 'com.google.ar:core:1.20.0'
+    implementation 'com.google.android.ads.consent:consent-library:1.0.8'
+    implementation 'com.google.firebase:firebase-messaging:21.0.0'
+    implementation 'com.google.api-client:google-api-client:1.25.0'
+    implementation 'com.google.api-client:google-api-client-android:1.23.0'
+    implementation 'com.google.apis:google-api-services-drive:v3-rev110-1.23.0'
+    implementation files('libs/YouTubeAndroidPlayerAPI.jar')
+    implementation([
+            'com.snapchat.kit.sdk:creative:1.4.4',
+            'com.snapchat.kit.sdk:core:1.4.4',
+    ])
+}
+
+configurations {
+    all {
+        exclude module: 'httpclient'
+        exclude module: 'commons-logging'
+    }
+}

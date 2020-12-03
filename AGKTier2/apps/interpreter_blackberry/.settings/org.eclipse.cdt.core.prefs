@@ -1,0 +1,7 @@
+#Wed Nov 23 03:44:09 GMT 2011
+eclipse.preferences.version=1
+environment/project/com.qnx.qcc.configuration.exe.debug.1394276397/LD/delimiter=;
+environment/project/com.qnx.qcc.configuration.exe.debug.1394276397/LD/operation=replace
+environment/project/com.qnx.qcc.configuration.exe.debug.1394276397/LD/value=qcc -V4.4.2,gcc_ntoarmv7le
+environment/project/com.qnx.qcc.configuration.exe.debug.1394276397/append=true
+environment/project/com.qnx.qcc.configuration.exe.debug.1394276397/appendContributed=true

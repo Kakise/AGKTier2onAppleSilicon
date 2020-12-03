@@ -1,0 +1,86 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC045055464E500DB518D /* AGKMac */;
+		codeSenseManager = 72245E341409E1AB000870EB /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					797,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343858900;
+			PBXWorkspaceStateSaveDate = 343858900;
+		};
+		perUserProjectItems = {
+			7275D785147EDF1700B1BBA8 /* PBXTextBookmark */ = 7275D785147EDF1700B1BBA8 /* PBXTextBookmark */;
+			729CCF091471A83D00214F71 /* PBXTextBookmark */ = 729CCF091471A83D00214F71 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 72245E331409E1AB000870EB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	72245E331409E1AB000870EB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	72245E341409E1AB000870EB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7275D785147EDF1700B1BBA8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D88F5C5B131DA3A3003157CE /* MacCore.mm */;
+		name = "MacCore.mm: 442";
+		rLen = 0;
+		rLoc = 11598;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 11306;
+	};
+	729CCF091471A83D00214F71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D88F5C5B131DA3A3003157CE /* MacCore.mm */;
+		name = "MacCore.mm: 442";
+		rLen = 0;
+		rLoc = 11598;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 11306;
+	};
+	D2AAC045055464E500DB518D /* AGKMac */ = {
+		activeExec = 0;
+	};
+	D88F5C5B131DA3A3003157CE /* MacCore.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 43303}}";
+			sepNavSelRange = "{11598, 0}";
+			sepNavVisRange = "{11306, 603}";
+		};
+	};
+}

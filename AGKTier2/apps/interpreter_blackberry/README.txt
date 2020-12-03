@@ -1,0 +1,3 @@
+Limiting an app to portrait or landscape in the Blackberry player project can be controlled with the AGK command SetOrientationAllowed() or by using the setting in the bar-descriptor.xml file in the Application tab. Search the Core.cpp file for "User Choice" and uncomment the one you want to use. To use the AGK method you must set the bar-descriptor.xml Orientation field to auto-orient. To use the bar-descriptor.xml method set the Orientation field as desired and also change Core.cpp where it says 
+    if (EXIT_SUCCESS != bbutil_init_egl(screen_ctx, GL_ES_2, PORTRAIT))
+to read LANDSCAPE if needed instead.

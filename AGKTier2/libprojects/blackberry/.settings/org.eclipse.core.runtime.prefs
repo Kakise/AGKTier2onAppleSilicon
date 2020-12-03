@@ -1,0 +1,6 @@
+#Tue Nov 15 23:33:28 GMT 2011
+content-types/enabled=true
+content-types/org.eclipse.cdt.core.cSource/file-names=.c
+content-types/org.eclipse.cdt.core.cxxHeader/file-names=.h
+content-types/org.eclipse.cdt.core.cxxSource/file-names=.cpp
+eclipse.preferences.version=1
