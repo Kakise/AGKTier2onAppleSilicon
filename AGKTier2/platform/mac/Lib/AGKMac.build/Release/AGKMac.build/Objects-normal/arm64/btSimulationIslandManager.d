@@ -1,12 +1,12 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.cpp \
   bullet/LinearMath/btScalar.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.h \
   bullet/BulletCollision/CollisionDispatch/btUnionFind.h \
   bullet/LinearMath/btAlignedObjectArray.h \
   bullet/LinearMath/btAlignedAllocator.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btMinMax.h \
   bullet/LinearMath/btQuaternion.h bullet/LinearMath/btQuadWord.h \
@@ -17,7 +17,7 @@ dependencies: \
   bullet/LinearMath/btTransformUtil.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/CollisionDispatch/btManifoldResult.h \
   bullet/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \

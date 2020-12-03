@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionShapes/btTriangleBuffer.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionShapes/btTriangleBuffer.cpp \
   bullet/BulletCollision/CollisionShapes/btTriangleBuffer.h \
   bullet/BulletCollision/CollisionShapes/btTriangleCallback.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \

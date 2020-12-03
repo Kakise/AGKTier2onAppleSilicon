@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/gzip/ftgzip.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/ftgzip.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
@@ -28,18 +29,18 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/gzip/ftgzip.c \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/ftgzip.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/zlib.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/zconf.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/zutil.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/inftrees.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infblock.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infcodes.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infutil.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/zutil.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/inftrees.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/inffixed.h \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infutil.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infcodes.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/infblock.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/inflate.c \
-  /Volumes/Data/AGKTier2/freetype/src/gzip/adler32.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/zlib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/zconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/zutil.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/inftrees.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infblock.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infcodes.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infutil.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/zutil.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/inftrees.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/inffixed.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infutil.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infcodes.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/infblock.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/inflate.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/gzip/adler32.c

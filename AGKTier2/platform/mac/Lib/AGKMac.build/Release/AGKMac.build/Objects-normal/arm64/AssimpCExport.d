@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/assimp/AssimpCExport.cpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/AssimpCExport.cpp \
   assimp/AssimpPCH.h common/include/PlatformDefines.h \
   assimp/include/assimp/defs.h assimp/boost/pointer_cast.hpp \
   assimp/boost/scoped_ptr.hpp assimp/boost/scoped_array.hpp \

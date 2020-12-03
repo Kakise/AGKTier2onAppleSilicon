@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCompoundCompoundCollisionAlgorithm.h \
   bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btAlignedObjectArray.h \

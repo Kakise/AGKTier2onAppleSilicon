@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/zxing/common/IllegalArgumentException.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/common/IllegalArgumentException.cpp \
   zxing/common/IllegalArgumentException.h \
-  /Volumes/Data/AGKTier2/zxing/Exception.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Exception.h

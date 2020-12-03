@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/cff/cff.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cff.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,17 +27,17 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/cff/cff.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffcmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffobjs.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cfftypes.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffcmap.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cfftypes.h \
   freetype/include/freetype/t1tables.h \
   freetype/include/freetype/internal/services/svpscmap.h \
   freetype/include/freetype/internal/pshints.h \
   freetype/include/freetype/internal/tttypes.h \
   freetype/include/freetype/tttables.h freetype/include/freetype/ftmm.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffpic.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cfferrs.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffdrivr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffpic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cfferrs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffdrivr.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/internal/ftstream.h \
   freetype/include/freetype/internal/sfnt.h \
@@ -46,42 +47,42 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/cff/cff.c \
   freetype/include/freetype/internal/fthash.h \
   freetype/include/freetype/internal/services/svpostnm.h \
   freetype/include/freetype/internal/services/svttcmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffdrivr.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffgload.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffload.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffparse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffdrivr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffgload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffparse.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
   freetype/include/freetype/internal/services/svgldict.h \
   freetype/include/freetype/internal/services/svprop.h \
   freetype/include/freetype/ftcffdrv.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffparse.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cfftoken.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffparse.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cfftoken.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffload.c \
   freetype/include/freetype/tttags.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffobjs.c \
   freetype/include/freetype/internal/ftcalc.h \
   freetype/include/freetype/ttnameid.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffgload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffgload.c \
   freetype/include/freetype/ftoutln.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2ft.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2types.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2glue.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2error.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2fixed.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2arrst.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2read.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cffcmap.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2arrst.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2blues.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2blues.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2hints.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2font.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2error.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2font.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2intrp.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2ft.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2hints.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2intrp.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2stack.h \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2read.c \
-  /Volumes/Data/AGKTier2/freetype/src/cff/cf2stack.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2ft.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2types.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2glue.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2error.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2fixed.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2arrst.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2read.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cffcmap.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2arrst.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2blues.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2blues.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2hints.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2font.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2error.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2font.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2intrp.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2ft.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2hints.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2intrp.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2stack.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2read.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cff/cf2stack.c

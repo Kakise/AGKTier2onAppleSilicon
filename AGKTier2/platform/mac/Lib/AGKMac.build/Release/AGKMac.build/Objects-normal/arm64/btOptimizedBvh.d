@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionShapes/btOptimizedBvh.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionShapes/btOptimizedBvh.cpp \
   bullet/BulletCollision/CollisionShapes/btOptimizedBvh.h \
   bullet/BulletCollision/BroadphaseCollision/btQuantizedBvh.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \

@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/psaux/psaux.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psaux.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psobjs.c \
   freetype/include/freetype/internal/psaux.h \
   freetype/include/freetype/internal/ftobjs.h \
   freetype/include/freetype/ftrender.h \
@@ -34,16 +35,16 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/psaux/psaux.c \
   freetype/include/freetype/internal/services/svpscmap.h \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/internal/ftcalc.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psobjs.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psconv.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psauxerr.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psauxmod.c \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psauxmod.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/t1decode.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/t1cmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/afmparse.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/t1decode.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psconv.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psauxerr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psauxmod.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psauxmod.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/t1decode.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/t1cmap.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/afmparse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/t1decode.c \
   freetype/include/freetype/ftoutln.h \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/t1cmap.c \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/afmparse.c \
-  /Volumes/Data/AGKTier2/freetype/src/psaux/psconv.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/t1cmap.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/afmparse.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psaux/psconv.c

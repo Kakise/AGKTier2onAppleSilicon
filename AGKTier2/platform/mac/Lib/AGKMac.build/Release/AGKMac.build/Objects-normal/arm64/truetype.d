@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/truetype/truetype.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/truetype.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,9 +27,9 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/truetype/truetype.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttpic.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/tterrors.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttdriver.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttpic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/tterrors.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttdriver.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/internal/ftstream.h \
   freetype/include/freetype/internal/sfnt.h \
@@ -41,20 +42,20 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/truetype/truetype.c \
   freetype/include/freetype/internal/services/svttglyf.h \
   freetype/include/freetype/internal/services/svprop.h \
   freetype/include/freetype/ftttdrv.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttdriver.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttgload.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttobjs.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttinterp.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttpload.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttgxvar.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttpload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttdriver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttgload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttinterp.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttpload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttgxvar.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttpload.c \
   freetype/include/freetype/tttags.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttgload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttgload.c \
   freetype/include/freetype/internal/ftcalc.h \
   freetype/include/freetype/ftoutln.h freetype/include/freetype/ftlist.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttsubpix.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttobjs.c \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttinterp.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttsubpix.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttinterp.c \
   freetype/include/freetype/fttrigon.h \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttsubpix.c \
-  /Volumes/Data/AGKTier2/freetype/src/truetype/ttgxvar.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttsubpix.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/truetype/ttgxvar.c

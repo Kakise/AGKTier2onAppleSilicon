@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyDynamicsWorld.h \
   bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
   bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
@@ -25,7 +25,7 @@ dependencies: \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   bullet/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
   bullet/BulletDynamics/ConstraintSolver/btContactSolverInfo.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyConstraintSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyConstraintSolver.h \
   bullet/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h \
   bullet/BulletDynamics/ConstraintSolver/btTypedConstraint.h \
   bullet/BulletDynamics/ConstraintSolver/btSolverConstraint.h \
@@ -33,11 +33,11 @@ dependencies: \
   bullet/BulletDynamics/ConstraintSolver/btSolverBody.h \
   bullet/BulletDynamics/Dynamics/btRigidBody.h \
   bullet/BulletDynamics/ConstraintSolver/btConstraintSolver.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodySolverConstraint.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyConstraint.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBody.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyLink.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyLinkCollider.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodySolverConstraint.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyConstraint.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBody.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyLink.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Featherstone/btMultiBodyLinkCollider.h \
   bullet/BulletCollision/CollisionDispatch/btSimulationIslandManager.h \
   bullet/BulletCollision/CollisionDispatch/btUnionFind.h \
   bullet/LinearMath/btQuickprof.h

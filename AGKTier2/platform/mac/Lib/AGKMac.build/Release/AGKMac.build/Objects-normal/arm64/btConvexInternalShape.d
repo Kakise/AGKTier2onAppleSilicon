@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionShapes/btConvexInternalShape.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionShapes/btConvexInternalShape.cpp \
   bullet/BulletCollision/CollisionShapes/btConvexInternalShape.h \
   bullet/BulletCollision/CollisionShapes/btConvexShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \

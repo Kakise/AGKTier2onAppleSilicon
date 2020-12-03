@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolver.h \
   bullet/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h \
   bullet/BulletDynamics/ConstraintSolver/btTypedConstraint.h \
   bullet/LinearMath/btScalar.h \
@@ -21,5 +21,5 @@ dependencies: \
   bullet/BulletDynamics/ConstraintSolver/btConstraintSolver.h \
   bullet/LinearMath/btMatrixX.h bullet/LinearMath/btQuickprof.h \
   bullet/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btSolveProjectedGaussSeidel.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btSolveProjectedGaussSeidel.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h

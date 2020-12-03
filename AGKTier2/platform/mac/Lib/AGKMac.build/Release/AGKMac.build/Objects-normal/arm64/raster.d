@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/raster/raster.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/raster.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/rastpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/rastpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,12 +27,12 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/raster/raster.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/rastpic.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/rasterrs.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/ftraster.c \
-  /Volumes/Data/AGKTier2/freetype/src/raster/ftraster.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/rastpic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/rasterrs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/ftraster.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/ftraster.h \
   freetype/include/freetype/internal/ftcalc.h \
   freetype/include/freetype/internal/ftdebug.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/ftrend1.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/ftrend1.c \
   freetype/include/freetype/ftoutln.h \
-  /Volumes/Data/AGKTier2/freetype/src/raster/ftrend1.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/raster/ftrend1.h

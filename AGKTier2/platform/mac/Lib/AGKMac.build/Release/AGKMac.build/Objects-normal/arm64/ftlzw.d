@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/lzw/ftlzw.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/lzw/ftlzw.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
@@ -28,5 +29,5 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/lzw/ftlzw.c \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/ftlzw.h \
-  /Volumes/Data/AGKTier2/freetype/src/lzw/ftzopen.h \
-  /Volumes/Data/AGKTier2/freetype/src/lzw/ftzopen.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/lzw/ftzopen.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/lzw/ftzopen.c

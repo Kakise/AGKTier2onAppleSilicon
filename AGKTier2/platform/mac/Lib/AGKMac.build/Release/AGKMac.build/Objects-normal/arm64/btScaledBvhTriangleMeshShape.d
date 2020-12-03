@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.cpp \
   bullet/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h \
   bullet/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h \
   bullet/BulletCollision/CollisionShapes/btTriangleMeshShape.h \

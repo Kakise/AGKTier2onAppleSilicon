@@ -1,13 +1,14 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/pcf/pcf.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcf.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfutil.c \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfutil.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfutil.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfutil.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
   freetype/include/freetype/config/ftstdlib.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfread.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfread.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/fttypes.h \
@@ -30,13 +31,13 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/pcf/pcf.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcf.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfread.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcferror.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfdrivr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfread.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcferror.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfdrivr.c \
   freetype/include/freetype/ftgzip.h freetype/include/freetype/ftlzw.h \
   freetype/include/freetype/ftbzip2.h freetype/include/freetype/ftbdf.h \
   freetype/include/freetype/ttnameid.h \
-  /Volumes/Data/AGKTier2/freetype/src/pcf/pcfdrivr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pcf/pcfdrivr.h \
   freetype/include/freetype/internal/services/svbdf.h \
   freetype/include/freetype/internal/services/svfntfmt.h

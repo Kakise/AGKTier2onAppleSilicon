@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/zxing/qrcode/ErrorCorrectionLevel.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/qrcode/ErrorCorrectionLevel.cpp \
   zxing/qrcode/ErrorCorrectionLevel.h \
-  /Volumes/Data/AGKTier2/zxing/ReaderException.h \
-  /Volumes/Data/AGKTier2/zxing/Exception.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/ReaderException.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Exception.h

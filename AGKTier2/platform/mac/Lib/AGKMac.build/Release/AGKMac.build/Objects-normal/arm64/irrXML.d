@@ -1,5 +1,6 @@
-dependencies: /Volumes/Data/AGKTier2/assimp/include/irrXML/irrXML.cpp \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/../../AssimpPCH.h \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/irrXML.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/../../AssimpPCH.h \
   common/include/PlatformDefines.h assimp/include/assimp/defs.h \
   assimp/boost/pointer_cast.hpp assimp/boost/scoped_ptr.hpp \
   assimp/boost/scoped_array.hpp assimp/boost/shared_ptr.hpp \
@@ -32,10 +33,10 @@ dependencies: /Volumes/Data/AGKTier2/assimp/include/irrXML/irrXML.cpp \
   assimp/Exceptional.h assimp/StringComparison.h \
   assimp/include/assimp/ai_assert.h assimp/StreamReader.h \
   assimp/ByteSwap.h assimp/qnan.h assimp/ScenePrivate.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/irrXML.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/irrString.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/irrTypes.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/irrArray.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/heapsort.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/./../../fast_atof.h \
-  /Volumes/Data/AGKTier2/assimp/include/irrXML/CXMLReaderImpl.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/irrXML.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/irrString.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/irrTypes.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/irrArray.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/heapsort.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/./../../fast_atof.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/irrXML/CXMLReaderImpl.h

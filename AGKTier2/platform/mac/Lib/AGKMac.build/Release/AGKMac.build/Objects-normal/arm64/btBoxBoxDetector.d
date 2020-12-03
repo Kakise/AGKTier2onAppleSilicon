@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btBoxBoxDetector.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btBoxBoxDetector.h \
   bullet/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \

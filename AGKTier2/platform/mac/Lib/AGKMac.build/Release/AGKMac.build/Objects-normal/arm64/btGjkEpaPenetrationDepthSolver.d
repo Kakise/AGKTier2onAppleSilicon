@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.cpp \
   bullet/BulletCollision/CollisionShapes/btConvexShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
@@ -8,8 +8,8 @@ dependencies: \
   bullet/LinearMath/btQuaternion.h bullet/LinearMath/btQuadWord.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
   bullet/BulletCollision/CollisionShapes/btCollisionMargin.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
   bullet/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h

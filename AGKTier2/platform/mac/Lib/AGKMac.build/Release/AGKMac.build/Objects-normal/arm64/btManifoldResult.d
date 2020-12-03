@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btManifoldResult.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btManifoldResult.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btManifoldResult.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btManifoldResult.h \
   bullet/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
   bullet/LinearMath/btMinMax.h bullet/LinearMath/btAlignedAllocator.h \

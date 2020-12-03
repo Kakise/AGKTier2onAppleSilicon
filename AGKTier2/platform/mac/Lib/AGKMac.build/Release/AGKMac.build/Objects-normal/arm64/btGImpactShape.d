@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactShape.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactShape.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactShape.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
@@ -34,12 +34,12 @@ dependencies: \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   bullet/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
   bullet/BulletCollision/CollisionShapes/btTetrahedronShape.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactQuantizedBvh.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactBvh.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btBoxCollision.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btTriangleShapeEx.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btClipPolygon.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactQuantizedBvh.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactBvh.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btBoxCollision.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btTriangleShapeEx.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btClipPolygon.h \
   bullet/LinearMath/btGeometryUtil.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGeometryOperations.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btQuantization.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactMassUtil.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGeometryOperations.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btQuantization.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/Gimpact/btGImpactMassUtil.h

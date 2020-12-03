@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/pshinter/pshinter.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshinter.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,16 +27,16 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/pshinter/pshinter.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshpic.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshnterr.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshrec.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshpic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshnterr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshrec.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/internal/ftcalc.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshrec.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshrec.h \
   freetype/include/freetype/internal/pshints.h \
   freetype/include/freetype/t1tables.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshglob.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshalgo.h \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshglob.c \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshalgo.c \
-  /Volumes/Data/AGKTier2/freetype/src/pshinter/pshmod.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshglob.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshalgo.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshglob.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshalgo.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pshinter/pshmod.c

@@ -1,14 +1,14 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionWorld.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionWorld.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
   bullet/LinearMath/btMinMax.h bullet/LinearMath/btAlignedAllocator.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btQuaternion.h bullet/LinearMath/btQuadWord.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/LinearMath/btMotionState.h \
   bullet/LinearMath/btAlignedObjectArray.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/BroadphaseCollision/btDispatcher.h \
   bullet/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   bullet/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h \
@@ -18,7 +18,7 @@ dependencies: \
   bullet/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   bullet/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   bullet/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \

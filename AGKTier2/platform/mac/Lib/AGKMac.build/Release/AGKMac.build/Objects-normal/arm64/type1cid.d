@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/cid/type1cid.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/type1cid.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidparse.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidparse.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -28,27 +29,27 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/cid/type1cid.c \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/ftstream.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidparse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidparse.h \
   freetype/include/freetype/internal/t1types.h \
   freetype/include/freetype/t1tables.h \
   freetype/include/freetype/internal/pshints.h \
   freetype/include/freetype/internal/fthash.h \
   freetype/include/freetype/internal/services/svpscmap.h \
   freetype/include/freetype/internal/psaux.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/ciderrs.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/ciderrs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidload.c \
   freetype/include/freetype/ftmm.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidload.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidtoken.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidobjs.c \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidgload.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidobjs.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidriver.c \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidriver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidtoken.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidgload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidriver.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidriver.h \
   freetype/include/freetype/internal/services/svpostnm.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
   freetype/include/freetype/internal/services/svpsinfo.h \
   freetype/include/freetype/internal/services/svcid.h \
-  /Volumes/Data/AGKTier2/freetype/src/cid/cidgload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/cid/cidgload.c \
   freetype/include/freetype/ftoutln.h \
   freetype/include/freetype/internal/ftcalc.h

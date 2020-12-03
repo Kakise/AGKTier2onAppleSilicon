@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/common/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp \
   common/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
   common/Box2D/Dynamics/Contacts/b2Contact.h \
   common/Box2D/Common/b2Math.h common/include/PlatformDefines.h \

@@ -1,9 +1,10 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/type42/type42.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/type42.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42objs.c \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42objs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42objs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42objs.h \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -32,17 +33,17 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/type42/type42.c \
   freetype/include/freetype/internal/autohint.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42types.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42parse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42types.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42parse.h \
   freetype/include/freetype/internal/psaux.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42error.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42error.h \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/ftlist.h \
   freetype/include/freetype/ttnameid.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42parse.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42parse.c \
   freetype/include/freetype/internal/ftstream.h \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42drivr.c \
-  /Volumes/Data/AGKTier2/freetype/src/type42/t42drivr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42drivr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type42/t42drivr.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
   freetype/include/freetype/internal/services/svgldict.h \
   freetype/include/freetype/internal/services/svpostnm.h \

@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/platform/mac/Source/MacCore.mm \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/Source/MacCore.mm \
   common/include/agk.h common/include/sha1.h common/include/sha2.h \
   common/include/Common.h common/include/PlatformDefines.h \
   common/include/agkKeys.h common/include/Globals.h \
@@ -18,7 +19,7 @@ dependencies: /Volumes/Data/AGKTier2/platform/mac/Source/MacCore.mm \
   common/include/Mouse.h common/include/ZipFile.h common/include/AGO.h \
   common/include/cNode.h common/include/cMesh.h \
   common/include/../Collision/Box.h \
-  /Volumes/Data/AGKTier2/common/include/3DMath.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/include/3DMath.h \
   common/include/AGKLights.h common/include/cObject3D.h \
   common/include/Skeleton3D.h common/include/cCamera.h \
   common/include/../Collision/CollisionIncludes.h \
@@ -144,43 +145,45 @@ dependencies: /Volumes/Data/AGKTier2/platform/mac/Source/MacCore.mm \
   common/include/CollisionShapes.h common/include/Wrapper.h \
   common/../renderer/OpenGL2/OpenGL2.h \
   common/../renderer/OpenGL2/../../platform/mac/GLFW/glfw3.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidLib.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidDevice.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidElement.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidUsage.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidQueue.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidEvent.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidUsageTables.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidMouse.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidJoystick.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidKeyboard.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidAppleRemote.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidAppleMikey.h \
-  /Volumes/Data/AGKTier2/platform/mac/DDHidLib/DDHidKeyboardBarcodeScanner.h \
-  /Volumes/Data/AGKTier2/zxing/qrcode/QRCodeReader.h \
-  /Volumes/Data/AGKTier2/zxing/Reader.h \
-  /Volumes/Data/AGKTier2/zxing/BinaryBitmap.h zxing/common/Counted.h \
-  zxing/common/BitMatrix.h zxing/common/BitArray.h \
-  zxing/common/IllegalArgumentException.h \
-  /Volumes/Data/AGKTier2/zxing/Exception.h \
-  /Volumes/Data/AGKTier2/zxing/Binarizer.h \
-  /Volumes/Data/AGKTier2/zxing/LuminanceSource.h \
-  /Volumes/Data/AGKTier2/zxing/Result.h zxing/common/Array.h \
-  zxing/common/Str.h /Volumes/Data/AGKTier2/zxing/ResultPoint.h \
-  /Volumes/Data/AGKTier2/zxing/BarcodeFormat.h \
-  /Volumes/Data/AGKTier2/zxing/DecodeHints.h \
-  /Volumes/Data/AGKTier2/zxing/ResultPointCallback.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidLib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidDevice.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidElement.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidUsage.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidQueue.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidEvent.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidUsageTables.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidMouse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidJoystick.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidKeyboard.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidAppleRemote.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidAppleMikey.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/DDHidLib/DDHidKeyboardBarcodeScanner.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/qrcode/QRCodeReader.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Reader.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/BinaryBitmap.h \
+  zxing/common/Counted.h zxing/common/BitMatrix.h \
+  zxing/common/BitArray.h zxing/common/IllegalArgumentException.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Exception.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Binarizer.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/LuminanceSource.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/Result.h \
+  zxing/common/Array.h zxing/common/Str.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/ResultPoint.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/BarcodeFormat.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/DecodeHints.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/ResultPointCallback.h \
   zxing/qrcode/decoder/Decoder.h \
   zxing/common/reedsolomon/ReedSolomonDecoder.h \
   zxing/common/reedsolomon/GF256.h zxing/common/DecoderResult.h \
-  /Volumes/Data/AGKTier2/zxing/common/GreyscaleLuminanceSource.h \
-  /Volumes/Data/AGKTier2/zxing/common/GlobalHistogramBinarizer.h \
-  /Volumes/Data/AGKTier2/zxing/ReaderException.h \
-  /Volumes/Data/AGKTier2/zxing/QREncode.h \
-  /Volumes/Data/AGKTier2/zlib/zlib.h /Volumes/Data/AGKTier2/zlib/zconf.h \
-  /Volumes/Data/AGKTier2/libpng/png.h \
-  /Volumes/Data/AGKTier2/libpng/pnglibconf.h \
-  /Volumes/Data/AGKTier2/libpng/pngconf.h \
-  /Volumes/Data/AGKTier2/libjpeg/jpeglib.h \
-  /Volumes/Data/AGKTier2/libjpeg/jconfig.h \
-  /Volumes/Data/AGKTier2/libjpeg/jmorecfg.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/common/GreyscaleLuminanceSource.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/common/GlobalHistogramBinarizer.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/ReaderException.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zxing/QREncode.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zlib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libpng/png.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libpng/pnglibconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libpng/pngconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libjpeg/jpeglib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libjpeg/jconfig.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libjpeg/jmorecfg.h

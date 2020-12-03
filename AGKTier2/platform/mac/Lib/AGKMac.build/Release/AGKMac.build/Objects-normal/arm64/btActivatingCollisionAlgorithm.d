@@ -1,10 +1,10 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btAlignedObjectArray.h \
   bullet/LinearMath/btAlignedAllocator.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/BroadphaseCollision/btDispatcher.h \
   bullet/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btMinMax.h \
@@ -18,5 +18,5 @@ dependencies: \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/LinearMath/btMotionState.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionObject.h

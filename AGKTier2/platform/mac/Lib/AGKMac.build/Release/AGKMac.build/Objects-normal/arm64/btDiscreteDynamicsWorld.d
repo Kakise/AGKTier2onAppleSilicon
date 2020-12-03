@@ -1,7 +1,7 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
   bullet/LinearMath/btMinMax.h bullet/LinearMath/btAlignedAllocator.h \
@@ -50,5 +50,5 @@ dependencies: \
   bullet/BulletCollision/CollisionShapes/btCollisionMargin.h \
   bullet/LinearMath/btAabbUtil2.h \
   bullet/BulletDynamics/Dynamics/btActionInterface.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btRigidBody.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btRigidBody.h \
   bullet/LinearMath/btSerializer.h bullet/LinearMath/btHashMap.h

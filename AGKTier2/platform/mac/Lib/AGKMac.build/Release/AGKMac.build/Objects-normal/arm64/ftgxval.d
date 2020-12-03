@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftgxval.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftgxval.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \

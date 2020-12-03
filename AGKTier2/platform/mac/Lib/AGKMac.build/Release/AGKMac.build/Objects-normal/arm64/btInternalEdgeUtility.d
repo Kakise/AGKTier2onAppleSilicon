@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btInternalEdgeUtility.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btInternalEdgeUtility.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btInternalEdgeUtility.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btInternalEdgeUtility.h \
   bullet/LinearMath/btHashMap.h bullet/LinearMath/btAlignedObjectArray.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btAlignedAllocator.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btMinMax.h \

@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/smooth/smooth.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/smooth.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftspic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftspic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,11 +27,11 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/smooth/smooth.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftspic.h \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftsmerrs.h \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftgrays.c \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftgrays.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftspic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftsmerrs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftgrays.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftgrays.h \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/ftoutln.h \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftsmooth.c \
-  /Volumes/Data/AGKTier2/freetype/src/smooth/ftsmooth.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftsmooth.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/smooth/ftsmooth.h

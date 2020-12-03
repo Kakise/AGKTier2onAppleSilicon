@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/psnames/psmodule.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psnames/psmodule.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
@@ -27,7 +28,7 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/psnames/psmodule.c \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/services/svpscmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/psnames/psmodule.h \
-  /Volumes/Data/AGKTier2/freetype/src/psnames/pstables.h \
-  /Volumes/Data/AGKTier2/freetype/src/psnames/psnamerr.h \
-  /Volumes/Data/AGKTier2/freetype/src/psnames/pspic.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psnames/psmodule.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psnames/pstables.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psnames/psnamerr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/psnames/pspic.h

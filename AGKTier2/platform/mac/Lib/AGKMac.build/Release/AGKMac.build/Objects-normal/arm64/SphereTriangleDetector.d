@@ -1,7 +1,7 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.cpp \
   bullet/LinearMath/btScalar.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.h \
   bullet/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btMinMax.h \

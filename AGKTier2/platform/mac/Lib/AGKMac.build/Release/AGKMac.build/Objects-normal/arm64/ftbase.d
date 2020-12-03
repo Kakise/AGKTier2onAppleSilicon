@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftbase.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftbase.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,19 +27,19 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftbase.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/basepic.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/basepic.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftadvanc.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/basepic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/basepic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftadvanc.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/ftadvanc.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftcalc.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftcalc.c \
   freetype/include/freetype/fttrigon.h \
   freetype/include/freetype/internal/ftcalc.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftdbgmem.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftgloadr.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/fthash.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftdbgmem.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftgloadr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/fthash.c \
   freetype/include/freetype/internal/fthash.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftobjs.c \
   freetype/include/freetype/ftlist.h freetype/include/freetype/ftoutln.h \
   freetype/include/freetype/internal/ftvalid.h \
   freetype/include/freetype/internal/ftrfork.h \
@@ -56,11 +57,11 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftbase.c \
   freetype/include/freetype/internal/services/svttcmap.h \
   freetype/include/freetype/internal/services/svkern.h \
   freetype/include/freetype/internal/services/svtteng.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftbase.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftoutln.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftrfork.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftsnames.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftbase.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftoutln.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftrfork.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftsnames.c \
   freetype/include/freetype/ftsnames.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftstream.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/fttrigon.c \
-  /Volumes/Data/AGKTier2/freetype/src/base/ftutil.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftstream.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/fttrigon.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftutil.c

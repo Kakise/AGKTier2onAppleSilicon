@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpa2.cpp \
   bullet/BulletCollision/CollisionShapes/btConvexInternalShape.h \
   bullet/BulletCollision/CollisionShapes/btConvexShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
@@ -11,4 +11,4 @@ dependencies: \
   bullet/BulletCollision/CollisionShapes/btCollisionMargin.h \
   bullet/LinearMath/btAabbUtil2.h \
   bullet/BulletCollision/CollisionShapes/btSphereShape.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h

@@ -1,12 +1,12 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletWorldImporter/btWorldImporter.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletWorldImporter/btWorldImporter.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletWorldImporter/btWorldImporter.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletWorldImporter/btWorldImporter.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
   bullet/LinearMath/btMinMax.h bullet/LinearMath/btAlignedAllocator.h \
   bullet/LinearMath/btQuaternion.h bullet/LinearMath/btQuadWord.h \
   bullet/LinearMath/btAlignedObjectArray.h bullet/LinearMath/btHashMap.h \
-  /Volumes/Data/AGKTier2/bullet/btBulletDynamicsCommon.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/btBulletDynamicsCommon.h \
   bullet/btBulletCollisionCommon.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \

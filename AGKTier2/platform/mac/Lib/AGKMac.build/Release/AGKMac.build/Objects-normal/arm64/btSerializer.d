@@ -1,1 +1,2 @@
-dependencies: /Volumes/Data/AGKTier2/bullet/LinearMath/btSerializer.cpp
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/LinearMath/btSerializer.cpp

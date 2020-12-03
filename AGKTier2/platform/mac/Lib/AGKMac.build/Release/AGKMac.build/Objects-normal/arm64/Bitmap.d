@@ -1,11 +1,12 @@
-dependencies: /Volumes/Data/AGKTier2/assimp/Bitmap.cpp assimp/AssimpPCH.h \
-  common/include/PlatformDefines.h assimp/include/assimp/defs.h \
-  assimp/boost/pointer_cast.hpp assimp/boost/scoped_ptr.hpp \
-  assimp/boost/scoped_array.hpp assimp/boost/shared_ptr.hpp \
-  assimp/boost/shared_array.hpp assimp/boost/make_shared.hpp \
-  assimp/boost/format.hpp assimp/boost/foreach.hpp \
-  assimp/boost/static_assert.hpp assimp/boost/lexical_cast.hpp \
-  assimp/include/assimp/DefaultLogger.hpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/Bitmap.cpp \
+  assimp/AssimpPCH.h common/include/PlatformDefines.h \
+  assimp/include/assimp/defs.h assimp/boost/pointer_cast.hpp \
+  assimp/boost/scoped_ptr.hpp assimp/boost/scoped_array.hpp \
+  assimp/boost/shared_ptr.hpp assimp/boost/shared_array.hpp \
+  assimp/boost/make_shared.hpp assimp/boost/format.hpp \
+  assimp/boost/foreach.hpp assimp/boost/static_assert.hpp \
+  assimp/boost/lexical_cast.hpp assimp/include/assimp/DefaultLogger.hpp \
   assimp/include/assimp/Logger.hpp assimp/include/assimp/types.h \
   assimp/include/assimp/vector3.h \
   assimp/include/assimp/./Compiler/pushpack1.h \

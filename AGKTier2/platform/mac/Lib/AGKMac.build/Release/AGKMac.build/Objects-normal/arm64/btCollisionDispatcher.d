@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/BroadphaseCollision/btDispatcher.h \
   bullet/LinearMath/btScalar.h \
   bullet/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
@@ -17,7 +17,7 @@ dependencies: \
   bullet/LinearMath/btMotionState.h \
   bullet/LinearMath/btAlignedObjectArray.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
   bullet/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \

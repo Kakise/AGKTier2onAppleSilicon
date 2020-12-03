@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/bdf/bdf.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdf.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/bdf/bdflib.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdflib.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -28,11 +29,11 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/bdf/bdf.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/bdf/bdf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdf.h \
   freetype/include/freetype/internal/fthash.h \
-  /Volumes/Data/AGKTier2/freetype/src/bdf/bdferror.h \
-  /Volumes/Data/AGKTier2/freetype/src/bdf/bdfdrivr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdferror.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdfdrivr.c \
   freetype/include/freetype/ftbdf.h freetype/include/freetype/ttnameid.h \
   freetype/include/freetype/internal/services/svbdf.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
-  /Volumes/Data/AGKTier2/freetype/src/bdf/bdfdrivr.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/bdf/bdfdrivr.h

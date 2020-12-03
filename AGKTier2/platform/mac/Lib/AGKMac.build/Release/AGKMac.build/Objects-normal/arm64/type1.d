@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/type1/type1.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/type1.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1parse.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1parse.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -34,20 +35,20 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/type1/type1.c \
   freetype/include/freetype/internal/pshints.h \
   freetype/include/freetype/internal/fthash.h \
   freetype/include/freetype/internal/services/svpscmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1parse.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1errors.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1load.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1parse.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1errors.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1load.c \
   freetype/include/freetype/ftmm.h \
   freetype/include/freetype/internal/ftcalc.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1load.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1tokens.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1objs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1load.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1tokens.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1objs.c \
   freetype/include/freetype/ttnameid.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1gload.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1objs.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1afm.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1driver.c \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1driver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1gload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1objs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1afm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1driver.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1driver.h \
   freetype/include/freetype/internal/services/svmm.h \
   freetype/include/freetype/internal/services/svgldict.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
@@ -55,6 +56,6 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/type1/type1.c \
   freetype/include/freetype/internal/services/svpsinfo.h \
   freetype/include/freetype/internal/services/svkern.h \
   freetype/include/freetype/tttables.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1gload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1gload.c \
   freetype/include/freetype/ftoutln.h \
-  /Volumes/Data/AGKTier2/freetype/src/type1/t1afm.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/type1/t1afm.c

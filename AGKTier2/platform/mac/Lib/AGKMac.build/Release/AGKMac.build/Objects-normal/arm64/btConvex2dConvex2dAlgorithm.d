@@ -1,6 +1,6 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btConvex2dConvex2dAlgorithm.h \
   bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btAlignedObjectArray.h \
@@ -24,7 +24,7 @@ dependencies: \
   bullet/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/LinearMath/btMotionState.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   bullet/BulletCollision/CollisionShapes/btConvexShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \

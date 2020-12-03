@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/assimp/FBXParser.cpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/FBXParser.cpp \
   assimp/AssimpPCH.h common/include/PlatformDefines.h \
   assimp/include/assimp/defs.h assimp/boost/pointer_cast.hpp \
   assimp/boost/scoped_ptr.hpp assimp/boost/scoped_array.hpp \
@@ -31,7 +32,8 @@ dependencies: /Volumes/Data/AGKTier2/assimp/FBXParser.cpp \
   assimp/Exceptional.h assimp/StringComparison.h \
   assimp/include/assimp/ai_assert.h assimp/StreamReader.h \
   assimp/ByteSwap.h assimp/qnan.h assimp/ScenePrivate.h \
-  /Volumes/Data/AGKTier2/zlib/zlib.h /Volumes/Data/AGKTier2/zlib/zconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zlib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zconf.h \
   assimp/FBXTokenizer.h assimp/FBXCompileConfig.h assimp/FBXParser.h \
   assimp/LogAux.h assimp/TinyFormatter.h assimp/FBXUtil.h \
   assimp/ParsingUtils.h assimp/fast_atof.h

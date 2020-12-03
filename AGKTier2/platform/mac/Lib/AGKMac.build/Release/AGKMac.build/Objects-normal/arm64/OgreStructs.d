@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/assimp/OgreStructs.cpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/OgreStructs.cpp \
   assimp/OgreStructs.h assimp/AssimpPCH.h \
   common/include/PlatformDefines.h assimp/include/assimp/defs.h \
   assimp/boost/pointer_cast.hpp assimp/boost/scoped_ptr.hpp \

@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/common/Box2D/Dynamics/Joints/b2WeldJoint.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/Box2D/Dynamics/Joints/b2WeldJoint.cpp \
   common/Box2D/Dynamics/Joints/b2WeldJoint.h \
   common/Box2D/Dynamics/Joints/b2Joint.h common/Box2D/Common/b2Math.h \
   common/include/PlatformDefines.h common/Box2D/Common/b2Settings.h \

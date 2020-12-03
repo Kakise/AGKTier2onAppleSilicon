@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/platform/mac/Source/Social\ Plugins/SocialPlugins.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/platform/mac/Source/Social\ Plugins/SocialPlugins.cpp \
   common/include/Wrapper.h common/include/Common.h \
   common/include/PlatformDefines.h common/include/agk.h \
   common/include/sha1.h common/include/sha2.h common/include/agkKeys.h \
@@ -19,7 +19,7 @@ dependencies: \
   common/include/Mouse.h common/include/ZipFile.h common/include/AGO.h \
   common/include/cNode.h common/include/cMesh.h \
   common/include/../Collision/Box.h \
-  /Volumes/Data/AGKTier2/common/include/3DMath.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/include/3DMath.h \
   common/include/AGKLights.h common/include/cObject3D.h \
   common/include/Skeleton3D.h common/include/cCamera.h \
   common/include/../Collision/CollisionIncludes.h \

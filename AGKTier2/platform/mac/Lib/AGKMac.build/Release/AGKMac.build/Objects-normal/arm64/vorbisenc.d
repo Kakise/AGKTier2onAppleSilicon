@@ -1,20 +1,21 @@
-dependencies: /Volumes/Data/AGKTier2/libogg/src/vorbisenc.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/src/vorbisenc.c \
   libogg/include/vorbis/codec.h libogg/include/ogg/ogg.h \
   libogg/include/ogg/os_types.h libogg/include/vorbis/vorbisenc.h \
-  /Volumes/Data/AGKTier2/libogg/include/codec_internal.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/include/codec_internal.h \
   libogg/include/envelope.h libogg/include/mdct.h \
   libogg/include/codebook.h libogg/include/psy.h \
   libogg/include/smallft.h libogg/include/backends.h \
   libogg/include/codec_internal.h libogg/include/bitrate.h \
   libogg/include/os.h \
-  /Volumes/Data/AGKTier2/assimp/include/assimp/config.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/assimp/include/assimp/config.h \
   libogg/include/misc.h libogg/include/highlevel.h \
-  /Volumes/Data/AGKTier2/libogg/include/os.h \
-  /Volumes/Data/AGKTier2/libogg/include/misc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/include/os.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/include/misc.h \
   libogg/include/modes/setup_44.h libogg/include/modes/floor_all.h \
-  /Volumes/Data/AGKTier2/libogg/include/backends.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/include/backends.h \
   libogg/include/books/floor/floor_books.h \
-  /Volumes/Data/AGKTier2/libogg/include/codebook.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/libogg/include/codebook.h \
   libogg/include/modes/residue_44.h \
   libogg/include/books/coupled/res_books_stereo.h \
   libogg/include/modes/psych_44.h libogg/include/modes/setup_44u.h \

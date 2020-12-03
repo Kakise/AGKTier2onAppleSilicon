@@ -1,8 +1,8 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Vehicle/btRaycastVehicle.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Vehicle/btRaycastVehicle.cpp \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
   bullet/LinearMath/btMinMax.h bullet/LinearMath/btAlignedAllocator.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Vehicle/btRaycastVehicle.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Vehicle/btRaycastVehicle.h \
   bullet/BulletDynamics/Dynamics/btRigidBody.h \
   bullet/LinearMath/btAlignedObjectArray.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
@@ -15,8 +15,8 @@ dependencies: \
   bullet/BulletDynamics/ConstraintSolver/btJacobianEntry.h \
   bullet/BulletDynamics/ConstraintSolver/btSolverBody.h \
   bullet/LinearMath/btTransformUtil.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Vehicle/btVehicleRaycaster.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Vehicle/btWheelInfo.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Vehicle/btVehicleRaycaster.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Vehicle/btWheelInfo.h \
   bullet/BulletDynamics/Dynamics/btActionInterface.h \
   bullet/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.h \
   bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \

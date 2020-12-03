@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/common/Box2D/Collision/Shapes/b2EdgeShape.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/Box2D/Collision/Shapes/b2EdgeShape.cpp \
   common/Box2D/Collision/Shapes/b2EdgeShape.h \
   common/Box2D/Collision/Shapes/b2Shape.h \
   common/Box2D/Common/b2BlockAllocator.h \

@@ -1,7 +1,7 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/Bullet-C-API.cpp \
-  /Volumes/Data/AGKTier2/bullet/Bullet-C-Api.h \
-  /Volumes/Data/AGKTier2/bullet/btBulletDynamicsCommon.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/Bullet-C-API.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/Bullet-C-Api.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/btBulletDynamicsCommon.h \
   bullet/btBulletCollisionCommon.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btScalar.h \
@@ -68,7 +68,7 @@ dependencies: \
   bullet/LinearMath/btDefaultMotionState.h \
   bullet/LinearMath/btQuickprof.h bullet/LinearMath/btIDebugDraw.h \
   bullet/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btDynamicsWorld.h \
   bullet/BulletDynamics/ConstraintSolver/btContactSolverInfo.h \
   bullet/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h \
   bullet/BulletDynamics/Dynamics/btRigidBody.h \
@@ -92,7 +92,7 @@ dependencies: \
   bullet/BulletDynamics/Vehicle/btVehicleRaycaster.h \
   bullet/BulletDynamics/Vehicle/btWheelInfo.h \
   bullet/BulletDynamics/Dynamics/btActionInterface.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Dynamics/btRigidBody.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Dynamics/btRigidBody.h \
   bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
   bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
   bullet/BulletCollision/CollisionShapes/btTriangleShape.h \

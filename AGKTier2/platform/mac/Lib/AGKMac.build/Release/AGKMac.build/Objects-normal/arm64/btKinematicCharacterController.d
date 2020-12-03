@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Character/btKinematicCharacterController.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Character/btKinematicCharacterController.cpp \
   bullet/LinearMath/btIDebugDraw.h bullet/LinearMath/btVector3.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btMinMax.h \
   bullet/LinearMath/btAlignedAllocator.h bullet/LinearMath/btTransform.h \
@@ -31,7 +31,7 @@ dependencies: \
   bullet/LinearMath/btAabbUtil2.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/LinearMath/btDefaultMotionState.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Character/btKinematicCharacterController.h \
-  /Volumes/Data/AGKTier2/bullet/BulletDynamics/Character/btCharacterControllerInterface.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Character/btKinematicCharacterController.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletDynamics/Character/btCharacterControllerInterface.h \
   bullet/BulletDynamics/Dynamics/btActionInterface.h \
   bullet/BulletDynamics/Dynamics/btRigidBody.h

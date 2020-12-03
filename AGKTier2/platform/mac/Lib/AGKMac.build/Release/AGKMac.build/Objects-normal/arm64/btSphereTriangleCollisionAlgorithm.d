@@ -1,14 +1,14 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.cpp \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btSphereTriangleCollisionAlgorithm.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   bullet/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   bullet/LinearMath/btScalar.h bullet/LinearMath/btAlignedObjectArray.h \
   bullet/LinearMath/btAlignedAllocator.h \
   bullet/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
   bullet/LinearMath/btVector3.h bullet/LinearMath/btMinMax.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/BroadphaseCollision/btDispatcher.h \
   bullet/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
@@ -20,7 +20,7 @@ dependencies: \
   bullet/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionObject.h \
   bullet/LinearMath/btMotionState.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   bullet/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   bullet/BulletCollision/CollisionShapes/btSphereShape.h \
   bullet/BulletCollision/CollisionShapes/btConvexInternalShape.h \
@@ -28,4 +28,4 @@ dependencies: \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionMargin.h \
   bullet/LinearMath/btAabbUtil2.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/CollisionDispatch/SphereTriangleDetector.h

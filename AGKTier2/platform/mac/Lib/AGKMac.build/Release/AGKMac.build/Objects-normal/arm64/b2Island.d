@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/common/Box2D/Dynamics/b2Island.cpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/Box2D/Dynamics/b2Island.cpp \
   common/Box2D/Collision/b2Distance.h common/Box2D/Common/b2Math.h \
   common/include/PlatformDefines.h common/Box2D/Common/b2Settings.h \
   common/Box2D/Dynamics/b2Island.h common/Box2D/Dynamics/b2Body.h \
@@ -25,7 +26,7 @@ dependencies: /Volumes/Data/AGKTier2/common/Box2D/Dynamics/b2Island.cpp \
   common/include/Mouse.h common/include/ZipFile.h common/include/AGO.h \
   common/include/cNode.h common/include/cMesh.h \
   common/include/../Collision/Box.h \
-  /Volumes/Data/AGKTier2/common/include/3DMath.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/include/3DMath.h \
   common/include/AGKLights.h common/include/cObject3D.h \
   common/include/Skeleton3D.h common/include/cCamera.h \
   common/include/../Collision/CollisionIncludes.h \

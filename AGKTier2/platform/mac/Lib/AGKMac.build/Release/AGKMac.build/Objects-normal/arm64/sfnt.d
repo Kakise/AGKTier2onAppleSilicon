@@ -1,8 +1,9 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/sfnt/sfnt.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfnt.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfntpic.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfntpic.c \
   freetype/include/freetype/freetype.h \
   freetype/include/freetype/config/ftconfig.h \
   freetype/include/freetype/config/ftoption.h \
@@ -26,45 +27,45 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/sfnt/sfnt.c \
   freetype/include/freetype/internal/ftserv.h \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfntpic.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sferrors.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfntpic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sferrors.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttload.c \
   freetype/include/freetype/internal/ftdebug.h \
   freetype/include/freetype/internal/ftstream.h \
   freetype/include/freetype/tttags.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttload.h \
   freetype/include/freetype/internal/tttypes.h \
   freetype/include/freetype/tttables.h freetype/include/freetype/ftmm.h \
   freetype/include/freetype/t1tables.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttmtx.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttmtx.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttcmap.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttmtx.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttmtx.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttcmap.c \
   freetype/include/freetype/internal/ftvalid.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttcmap.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttcmap.h \
   freetype/include/freetype/internal/services/svttcmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttcmapc.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttkern.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttkern.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfobjs.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttcmapc.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttkern.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttkern.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfobjs.h \
   freetype/include/freetype/internal/sfnt.h \
   freetype/include/freetype/ttnameid.h \
   freetype/include/freetype/internal/services/svpscmap.h \
   freetype/include/freetype/ftsnames.h \
   freetype/include/freetype/ftgzip.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttbdf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttbdf.h \
   freetype/include/freetype/ftbdf.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfdriver.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/sfdriver.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttsbit.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttpost.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfdriver.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/sfdriver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttsbit.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttpost.h \
   freetype/include/freetype/internal/services/svbdf.h \
   freetype/include/freetype/internal/services/svgldict.h \
   freetype/include/freetype/internal/services/svpostnm.h \
   freetype/include/freetype/internal/services/svsfnt.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/pngshim.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttsbit.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/pngshim.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttsbit.c \
   freetype/include/freetype/ftbitmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/pngshim.h \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttpost.c \
-  /Volumes/Data/AGKTier2/freetype/src/sfnt/ttbdf.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/pngshim.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttpost.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/sfnt/ttbdf.c

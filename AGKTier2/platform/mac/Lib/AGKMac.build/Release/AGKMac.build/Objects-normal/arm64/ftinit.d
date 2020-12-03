@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftinit.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/ftinit.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
@@ -26,5 +27,5 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/base/ftinit.c \
   freetype/include/freetype/internal/ftpic.h \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/ftdebug.h \
-  /Volumes/Data/AGKTier2/freetype/src/base/basepic.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/base/basepic.h \
   freetype/include/freetype/config/ftmodule.h

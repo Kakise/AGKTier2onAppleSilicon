@@ -1,5 +1,5 @@
 dependencies: \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.cpp \
   bullet/BulletCollision/CollisionShapes/btConvexShape.h \
   bullet/BulletCollision/CollisionShapes/btCollisionShape.h \
   bullet/LinearMath/btTransform.h bullet/LinearMath/btMatrix3x3.h \
@@ -14,13 +14,13 @@ dependencies: \
   bullet/BulletCollision/CollisionShapes/btConvexInternalShape.h \
   bullet/LinearMath/btAabbUtil2.h \
   bullet/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexCast.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexCast.h \
   bullet/LinearMath/btIDebugDraw.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
   bullet/BulletCollision/NarrowPhaseCollision/btGjkConvexCast.h \
   bullet/BulletCollision/NarrowPhaseCollision/btContinuousConvexCollision.h \
   bullet/BulletCollision/NarrowPhaseCollision/btGjkEpaPenetrationDepthSolver.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
-  /Volumes/Data/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btConvexPenetrationDepthSolver.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/bullet/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h \
   bullet/BulletCollision/CollisionShapes/btTriangleCallback.h

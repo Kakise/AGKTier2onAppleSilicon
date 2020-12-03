@@ -1,4 +1,5 @@
-dependencies: /Volumes/Data/AGKTier2/common/Source/ZipFile.cpp \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/Source/ZipFile.cpp \
   common/include/agk.h common/include/sha1.h common/include/sha2.h \
   common/include/Common.h common/include/PlatformDefines.h \
   common/include/agkKeys.h common/include/Globals.h \
@@ -18,7 +19,7 @@ dependencies: /Volumes/Data/AGKTier2/common/Source/ZipFile.cpp \
   common/include/Mouse.h common/include/ZipFile.h common/include/AGO.h \
   common/include/cNode.h common/include/cMesh.h \
   common/include/../Collision/Box.h \
-  /Volumes/Data/AGKTier2/common/include/3DMath.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/common/include/3DMath.h \
   common/include/AGKLights.h common/include/cObject3D.h \
   common/include/Skeleton3D.h common/include/cCamera.h \
   common/include/../Collision/CollisionIncludes.h \
@@ -142,7 +143,8 @@ dependencies: /Volumes/Data/AGKTier2/common/Source/ZipFile.cpp \
   common/include/AGKToBullet.h common/include/GLDebugDrawer.h \
   common/include/DynamicsWorld.h common/include/AGKMotionState.h \
   common/include/CollisionShapes.h common/include/Wrapper.h \
-  /Volumes/Data/AGKTier2/zlib/zip.h /Volumes/Data/AGKTier2/zlib/zlib.h \
-  /Volumes/Data/AGKTier2/zlib/zconf.h \
-  /Volumes/Data/AGKTier2/zlib/ioapi.h \
-  /Volumes/Data/AGKTier2/zlib/unzip.h
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zip.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zlib.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/zconf.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/ioapi.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/zlib/unzip.h

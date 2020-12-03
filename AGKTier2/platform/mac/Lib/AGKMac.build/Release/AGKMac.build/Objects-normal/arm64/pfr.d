@@ -1,11 +1,12 @@
-dependencies: /Volumes/Data/AGKTier2/freetype/src/pfr/pfr.c \
+dependencies: \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfr.c \
   freetype/include/ft2build.h \
   freetype/include/freetype/config/ftheader.h \
   freetype/include/freetype/internal/internal.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrload.c \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrload.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrobjs.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrtypes.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrobjs.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrtypes.h \
   freetype/include/freetype/internal/ftobjs.h \
   freetype/include/freetype/ftrender.h \
   freetype/include/freetype/ftmodapi.h \
@@ -31,19 +32,19 @@ dependencies: /Volumes/Data/AGKTier2/freetype/src/pfr/pfr.c \
   freetype/include/freetype/ftincrem.h \
   freetype/include/freetype/internal/ftstream.h \
   freetype/include/freetype/internal/ftdebug.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrerror.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrgload.c \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrgload.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrsbit.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrcmap.c \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrcmap.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrobjs.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrerror.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrgload.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrgload.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrsbit.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrcmap.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrcmap.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrobjs.c \
   freetype/include/freetype/ftoutln.h \
   freetype/include/freetype/internal/ftcalc.h \
   freetype/include/freetype/ttnameid.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrdrivr.c \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrdrivr.c \
   freetype/include/freetype/internal/services/svpfr.h \
   freetype/include/freetype/ftpfr.h \
   freetype/include/freetype/internal/services/svfntfmt.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrdrivr.h \
-  /Volumes/Data/AGKTier2/freetype/src/pfr/pfrsbit.c
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrdrivr.h \
+  /Volumes/Data/AGKTier2onAppleSilicon/AGKTier2/freetype/src/pfr/pfrsbit.c
